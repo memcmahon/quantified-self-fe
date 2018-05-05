@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "https://infinite-retreat-10591.herokuapp.com";
+	    return "https://evening-reef-62953.herokuapp.com/";
 	  }
 	};
 
